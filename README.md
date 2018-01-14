@@ -89,9 +89,10 @@ Test env is already setuped with jest, axois, cypress
 ```npm run e2e``` to run cypress test cases (E2E)
 
 ## Conditions
-- You should consume the api endpoint mention and not use it as internal json file
+- You should consume the api endpoint mentioned and not use it as internal json file
 - You should write api ingeration tests with jest
 - You should write E2E tests with cypress
+- You should write a good testing report
 
 ## What we are looking for
 
@@ -120,6 +121,9 @@ Implementations focusing on **quality over feature completeness** will be highly
 ## Resources
 
 [https://facebook.github.io/jest/](https://facebook.github.io/jest/)
+
 [https://www.cypress.io/](https://www.cypress.io/)
+
 [https://github.com/axios/axios](https://github.com/axios/axios)
+
 
