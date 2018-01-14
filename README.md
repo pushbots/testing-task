@@ -58,7 +58,7 @@ Write an E2E tests with cypress to test the following actions:
 - [ ] when you click seach and feilds are empty should display validtion error on each feild
 - [ ] when you click seach and feilds are not empty should go to result page
  
-### Search Re3sult page (/result):
+### Search Result page (/result):
 
 - [ ] when open result page directly from url it should show empty result and a link to search page
 - [ ] when open it from the search page you there is no result should also show empty result with link
@@ -92,8 +92,6 @@ Test env is already setuped with jest, axois, cypress
 - You should consume the api endpoint mention and not use it as internal json file
 - You should write api ingeration tests with jest
 - You should write E2E tests with cypress
-- Implement [travis](https://travis-ci.org) or [scrutinizer-ci](https://scrutinizer-ci.com) or any other CI tool for the project, Add the build status badges to your project README file
-- 
 
 ## What we are looking for
 
