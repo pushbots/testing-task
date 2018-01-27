@@ -1,5 +1,5 @@
 ## Tester Challenge
-Clone the repo and run ```npm isnstall``` before you start
+Clone the repo and run ```npm install``` before you start
 
 **NodeJs** is  required to run this project [https://nodejs.org](https://nodejs.org)
 ## Backend Integration Test
