@@ -99,7 +99,7 @@ Test env is already setuped with jest, axois, cypress
 - **Simple, clear, readable code** How well structured it is? Clear separation of concerns? Can anyone just look at it and get the idea to
 what is being done? Does it follow any standards?
 - **Correctness** Does the your tests cover all valid and invalid cases? Can you find bugs or trivial flaws?
-- **Bug resport** Does your test/bug report is well structured and deliver it's purpose?
+- **Bug resport** Is your test/bug report well structured?
 
 
 ## Questions & Delivery
