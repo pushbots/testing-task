@@ -50,19 +50,19 @@ Write an E2E tests with cypress to test the following actions:
 
 ### Search page (/):
 
-- [ ] when you open the home page show a place holder tell the date is loaded
-- [ ] when the data loaded shold show a 2 date pickers and 2 button
-- [ ] when you click any "To" or "From" it should open a date picker
-- [ ] when you choose a date from the picker it should update the field
+- [ ] when you open the home page show a place holder till the data is loaded
+- [ ] when the data loaded should show a 2 date pickers and 2 button
+- [ ] when you click any of "To" or "From" it should open a date picker
+- [ ] when you choose a date from the picker it should update the fields
 - [ ] when you click clear it should clear the two feilds
 - [ ] when you click seach and feilds are empty should display validtion error on each feild
 - [ ] when you click seach and feilds are not empty should go to result page
  
 ### Search Result page (/result):
 
-- [ ] when open result page directly from url it should show empty result and a link to search page
-- [ ] when open it from the search page you there is no result should also show empty result with link
-- [ ] when when open it from the search page with result it should show hotels card list
+- [ ] when you open result page directly from url it should show empty result and a link to search page
+- [ ] when you open it from the search page you there is no result should also show empty result with link
+- [ ] when you open it from the search page with result it should show hotels card list
 - [ ] when you type in filter by name field it should filter the cards by name
 - [ ] when you change price slider it should filter the cards by price
 - [ ] when you click sort by name it should sort the cards by name
@@ -99,7 +99,7 @@ Test env is already setuped with jest, axois, cypress
 - **Simple, clear, readable code** How well structured it is? Clear separation of concerns? Can anyone just look at it and get the idea to
 what is being done? Does it follow any standards?
 - **Correctness** Does the your tests cover all valid and invalid cases? Can you find bugs or trivial flaws?
-- **Bug resport** Does you test/bug report is well structured and deliver the it's purpose?
+- **Bug resport** Does your test/bug report is well structured and deliver it's purpose?
 
 
 ## Questions & Delivery
